@@ -8,11 +8,13 @@ public class OrangeHRMS_T1 {
 	public void Lunchurl() {
 		
 		ChromeOptions op = new ChromeOptions();
-		op.addArguments("--Start-Maimized");
+		op.addArguments("--Start-Maximized");
 		op.setExperimentalOption("excludeSwitches", new String[] {"enable-automation"});
 		ChromeDriver Driver= new ChromeDriver(op);
+
 		Driver.get("https://www.google.com");
 		//####TEST
+
 	}
 	
 	
