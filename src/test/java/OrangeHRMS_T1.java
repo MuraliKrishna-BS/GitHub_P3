@@ -12,6 +12,7 @@ public class OrangeHRMS_T1 {
 		op.setExperimentalOption("excludeSwitches", new String[] {"enable-automation"});
 		ChromeDriver Driver= new ChromeDriver(op);
 		Driver.get("https://www.google.com");
+		//####TEST
 	}
 	
 	
