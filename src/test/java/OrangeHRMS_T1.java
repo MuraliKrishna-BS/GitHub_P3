@@ -13,9 +13,8 @@ public class OrangeHRMS_T1 {
 		ChromeDriver Driver= new ChromeDriver(op);
 
 		Driver.get("https://www.google.com");
-		//####TEST
-		//test from master
 
+		Driver.close();
 	}
 	
 	
