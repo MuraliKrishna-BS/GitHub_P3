@@ -5,5 +5,5 @@
     <classes>
       <class name="OrangeHRMS_T1"/>
     </classes>
-  </test> <!-- Test -->
+  </test> <!-- Test  -->
 </suite> <!-- Suite -->
